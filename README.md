@@ -390,6 +390,7 @@ If you want to contribute:
 | [BadgerOS](https://github.com/badgeteam/BadgerOS) | A monolithic lightweight UNIX clone | 1,018,518 | AMD Ryzen 5 3600 |
 | [Retro Rocket](https://github.com/brainboxdotcc/retro-rocket) | A BASIC _powered_ 64-bit SMP multitasking OS | 441,329 | Intel Xeon E5-2680 |
 | [Hyra](https://github.com/sigsegv7/Hyra) | Monolithic UNIX-like OS by [OSMORA.ORG](https://osmora.org) | 199,873 | Intel Core i3-3220 |
+| [Terracotta](https://github.com/Atlas-Software-Org/TerracottaOS) | Hybrid kernel Not-Unix by A.S.M team | 19,011 | Intel Core i7-8665U |
 
 ## License
 
